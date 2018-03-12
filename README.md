@@ -26,7 +26,8 @@ Also on Speaker Deck -
 [Link](https://speakerdeck.com/arunmichaeldsouza/houdini-what-lies-ahead-jsconf-iceland-2018)
 
 ## Talk video
-Coming soon
+Available on YouTube -
+[Link](https://www.youtube.com/watch?v=3Nv9muOkb6k&t=5610s)
 
 ## License
 MIT License
